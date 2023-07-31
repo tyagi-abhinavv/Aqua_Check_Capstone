@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76117414722",
+    "project_id": "aqua-check-250b2",
+    "storage_bucket": "aqua-check-250b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76117414722:android:3e02fc840014c18a9beedb",
+        "android_client_info": {
+          "package_name": "com.example.aqua_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76117414722-f71jvvkomn71ao3l1u4q9ln107jlmson.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_IdbeZtnhKNXpD-fPGYqKQwkk_EpO91E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76117414722-f71jvvkomn71ao3l1u4q9ln107jlmson.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
